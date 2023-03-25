@@ -108,8 +108,8 @@
                                     <constraint firstItem="2s4-Q4-VRs" firstAttribute="top" relation="greaterThanOrEqual" secondItem="teM-63-MlG" secondAttribute="bottom" constant="29" id="oOZ-Gb-BxN"/>
                                 </constraints>
                             </stackView>
-                            <button opaque="NO" tag="1000" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uvH-17-TVt">
-                                <rect key="frame" x="155" y="612" width="64" height="35"/>
+                            <button opaque="NO" tag="1000" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uvH-17-TVt">
+                                <rect key="frame" x="155" y="613" width="65" height="34"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Clear"/>
                                 <connections>
